@@ -67,6 +67,7 @@ Kevin Hudson
 - [Nathaniel Lee](https://github.com/nslee90)
 - [Dontavious Sanders](https://github.com/sanddc318)
 - [Chris Bratene](https://github.com/chrisbratene)
+- [Elaguy](https://github.com/Elaguy)
 - [Apurv Upadeo](https://github.com/apurvupadeo)
 - [Pratik Pathak](https://github.com/thepratikpathak)
 - [Jesse Cook](https://github.com/JesseCook)
